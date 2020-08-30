@@ -1,7 +1,7 @@
 # Digit-Recogniser
 
 ## Demo:
-![Alt Text]()
+![Alt Text](https://github.com/Harsh19397/Digit-Recogniser/blob/master/demo.gif)
 
 ## Description: 
 This is a simple project where I have implelemented the convolutional neural network in order to predict the digits. First I have used the dataset provided by the scikit learn library and trained the model for it which is saved as mnist_model.h5. Then this model is being used in the draeNumber.py file. Here you draw a number and the trained model predicts it.
